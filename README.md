@@ -1,4 +1,4 @@
-# Retail Sales Dataset Project
+# 🛍️ Retail Sales Dataset Project
 
 ### 📝 Project Summary
 This repository contains an Excel-based analysis of a synthetic retail sales dataset. The project demonstrates core data analysis skills in Excel including data transformation, pivot analysis, and VLOOKUP. The aim of this project was to practice essential data analytics techniques and extract insights from the dataset.

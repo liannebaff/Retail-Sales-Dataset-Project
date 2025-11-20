@@ -89,10 +89,10 @@ Used `VLOOKUP` to pull total sales and product category using the transaction ID
 #### 🔀 Pivot Tables
 Built pivot tables for easy grouping, comparison and analysis of the dataset and added slicers for interactive filtering.
   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Sales by Gender & Product Category** | **Rows =** Product Category, **Columns =** Gender and **Values =** sum of Sale Total <br> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **a) Sales by Gender & Product Category** | **Rows =** Product Category, **Columns =** Gender and **Values =** sum of Sale Total <br> <br>
       <img width="380" height="130" alt="image" src="https://github.com/user-attachments/assets/ef5b6977-d126-452e-9647-c6d286e83182" />
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Sales by Generation & Product Category** | **Rows =** Generation, **Columns =** Product Category and **Values =** sum of Sale Total <br> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**b) Sales by Generation & Product Category** | **Rows =** Generation, **Columns =** Product Category and **Values =** sum of Sale Total <br> <br>
       <img width="617" height="457" alt="image" src="https://github.com/user-attachments/assets/23dd53ff-9a2f-45dc-b7b0-a4512b1e2816" />
 
 

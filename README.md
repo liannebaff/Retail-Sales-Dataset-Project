@@ -58,7 +58,7 @@ The dataset contains synthetic sales transactions for a retail store, including 
 | Commission 2024                | As above.                                            | Shows the commission per transaction in 2024                      |
 
 - **Examples of formulas used:**  
-     `=TEXT(E2,"DDDD")` `=MONTH(E2)` `=YEAR(E2)` `=DAY(E2)` `=IFS(K2>50, "Senior", K2>=30, "Adult", K2<30, "Young Adult")` `=M2*N2` `=O2*$S$3`  
+`=TEXT(E2,"DDDD")` `=MONTH(E2)` `=YEAR(E2)` `=DAY(E2)` `=IFS(K2>50, "Senior", K2>=30, "Adult", K2<30, "Young Adult")` `=M2*N2` `=O2*$S$3`   
   
 #### 🔍 Exploring and Summarising the Dataset
 
@@ -73,7 +73,7 @@ The dataset contains synthetic sales transactions for a retail store, including 
 - Calculated the total and average commission across 2023 and 2024 using `SUMIF` and `SUMIFS`.
 - Used `CONCATENATE` to combine the total sales and product category into a single descriptive cell.
 - **Examples of Formulas used:**  
-      `=SUMIF(L:L,R11,O:O)` `=SUMIFS(M:M,I:I,$T$10,L:L,R11)`
+`=SUMIF(L:L,R11,O:O)` `=SUMIFS(M:M,I:I,$T$10,L:L,R11)`
 
 
 

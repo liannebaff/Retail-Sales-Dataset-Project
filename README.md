@@ -78,7 +78,7 @@ The dataset contains synthetic sales transactions for a retail store, including 
 
 
 
-#### 🔭 VLOOKUP 
+#### 🔭 `VLOOKUP` 
 Used `VLOOKUP` to pull total sales and product category using the transaction ID.    
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; e.g. &nbsp; `=VLOOKUP(A2,retail_sales_dataset!A1:Q1001,COLUMN(retail_sales_dataset!O:O),FALSE)`
 

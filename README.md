@@ -122,9 +122,9 @@ During the analysis, I explored customer behaviour, sales trends and product cat
 &nbsp;  
   **Worksheets:**
   - <small><strong>Retail_Sales_Dataset:</strong> processed and analysed sales data.</small>
-  - <small><strong>Sales by Gender and Product Category:</strong> pivot table and chart summarising sales</small>  
-  - <small><strong>Sales by Generation and Product Category:</strong> pivot tables and charts summarising sales</small>  
-  - <small><strong>Transaction Lookup Tool:</strong> used transaction IDs to retrieve total sales and product categories via VLOOKUP</small>
+  - <small><strong>Sales by Gender and Product Category:</strong> pivot table and chart summarising sales.</small>  
+  - <small><strong>Sales by Generation and Product Category:</strong> pivot tables and charts summarising sales.</small>  
+  - <small><strong>Transaction Lookup Tool:</strong> used transaction IDs to retrieve total sales and product categories via VLOOKUP.</small>
 
 ### 📋 Dataset Structure
 
